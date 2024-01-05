@@ -20,10 +20,10 @@ Google chrome.
 - Lucas Bouvie - Desenvolvedor e idealizador da extensão.
 - Ao líder do meu setor Klaison Alves que apoiou o desenvolvimento da automação;
 - Obrigado especial ao time que me auxiliou e ainda auxilia nos testes e também motivaram o desenvolvimento com considerações e sugestões:
-  William S. Chaves
-  Marcos Jesus
-  Jhonatan R. Almeida
-  Diogo Basilio
+  - William S. Chaves
+  - Marcos Jesus
+  - Jhonatan R. Almeida
+  - Diogo Basilio
 
 ##  :lock: Licença
 Direitos Autorais (c) 2024 Lucas Bouvie
