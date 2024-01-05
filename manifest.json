@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "author": "Lucas Bouvie",
+  "name": "Verificador de Atendimento",
+  "version": "1.0",
+  "description": "Verifica continuamente por novos atendimentos no site suporte.ixcsoft.com.br.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "scripting", "tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://suporte.ixcsoft.com.br/atendente/*",
+    "https://opasuitealfa.ixcsoft.com.br/atendente/"],
+      "js": ["content.js"]
+    }
+  ]
+}

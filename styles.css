@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 10px;
+    color: #333;
+    text-align: center;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    margin: 5px 0;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#startButton, #stopButton, #countButton {
+    width: 100%;
+}
+
+div {
+    margin-top: 10px;
+    text-align: center; 
+}
