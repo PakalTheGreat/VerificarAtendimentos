@@ -3,17 +3,6 @@
 - Extensão para puxar atendimentos da fila no OPA!Suite;
 - Enviar saudação bom dia/boa tarde/boa noite baseado no horário do PC
 - Contabilizar atendimentos com interação de clientes seja pra interagidos ou finalizados dependendo da aba em foco;
-   
-## :ledger: Indíce
-
-- [Sobre](#beginner-about)
-- [Uso](#zap-usage)
-  - [Instalação](#electric_plug-installation)  
-- [Desenvolvimento](#wrench-development)
-  - [Pre-Requisitos](#notebook-pre-requisites)
-- [FAQ](#question-faq)
-- [Créditos](#star2-creditos)
-- [License](#lock-licença)
 
 ##  :beginner: Sobre
 Essa extensão está em pré-alpha. Atualmente ela assume atendimentos, envia a saudação inicial baseado no horário do PC do atendente bom dia/boa tarde/boa noite, ainda contabiliza os atendimentos de forma rudmimentar. O projeto final tem por objetivo possibilitar a distribuição de atendimentos entre todos que estiverem com a extensão ligada, trazer números de finalizados, assumidos e transferidos pelo atendente e incluir métricas de tempo com a extensão ligada e afins.
