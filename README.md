@@ -31,9 +31,6 @@ Google chrome.
 
  > If you are new to open-source, make sure to check read more about it [here](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) and learn more about creating a pull request [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
 
-## :question: FAQ
-You can optionally add a FAQ section about the project.
-
 ## :star2: Creditos
 - Lucas Bouvie - Desenvolvedor e idealizador da extensão.
 - Ao líder do meu setor Klaison Alves que apoiou o desenvolvimento da automação;
