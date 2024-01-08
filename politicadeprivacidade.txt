@@ -2,11 +2,11 @@ Política de Privacidade para a Extensão Verificador de atendimentos
 
 Última atualização: [08/01/2024]
 
-Esta Política de Privacidade descreve as práticas de privacidade da extensão [Nome da Extensão] ("a Extensão"), criada por Lucas Bouvie. Esta política se aplica estritamente à Extensão e detalha as obrigações e práticas em relação à coleta, uso e divulgação de informações dos usuários.
+Esta Política de Privacidade descreve as práticas de privacidade da extensão Verificador de atendimentos, criada por Lucas Bouvie. Esta política se aplica estritamente à Extensão e detalha as obrigações e práticas em relação à coleta, uso e divulgação de informações dos usuários.
 
 1. Informações que Coletamos
 
-A Extensão [Nome da Extensão] não coleta, armazena ou processa quaisquer dados pessoais dos usuários. Ela opera exclusivamente dentro dos ambientes da IXCSoft e não tem qualquer funcionalidade de coleta de dados.
+A Extensão Verificador de atendimentos não coleta, armazena ou processa quaisquer dados pessoais dos usuários. Ela opera exclusivamente dentro dos ambientes da IXCSoft e não tem qualquer funcionalidade de coleta de dados.
 
 2. Uso da Informação
 
